@@ -5,3 +5,6 @@ O projeto conversão de distância é um projeto desenvolvido em Python. O proje
 
 ### Observações do projeto
 A aplicação é exposta usando a porta 5000
+
+
+### Foram adicionados os arquivos Dockerfile e docker-compose.yaml para cumprir com o exercício
